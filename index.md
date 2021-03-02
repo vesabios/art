@@ -2,16 +2,16 @@
 
 
 
-54.  2004.
+#54.  2004.
 
 <img src="img/54small.png" class="img-responsive" alt=""> 
-<img src="img/054.jpg" class="img-responsive" alt=""> 
+<img src="img/054source.jpg" class="img-responsive" alt=""> 
 
 
-185.  2004.
+#185.  2004.
 
 <img src="img/185small.png" class="img-responsive" alt=""> 
-<img src="img/185.jpg" class="img-responsive" alt=""> 
+<img src="img/185source.jpg" class="img-responsive" alt=""> 
 
 
 I trust myself in this moment.  2020.
