@@ -4,5 +4,9 @@ art
 
 hello world!
 
-<img src="img/i trust myself in this moment.png" class="img-responsive" alt=""> </div>
+I trust myself in this moment. 
+
+<img src="img/i trust myself in this moment.png" class="img-responsive" alt=""> 
+
+
 
